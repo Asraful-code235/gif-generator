@@ -16,3 +16,14 @@
   background-position: top;
   background-size: cover;
 }
+
+@media screen and (max-width: 768px) {
+  .bgImage {
+    background-image: url("/bg.svg");
+    background-repeat: no-repeat;
+    height: 150vh;
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+  }
+}
