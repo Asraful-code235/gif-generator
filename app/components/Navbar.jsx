@@ -3,7 +3,7 @@ import Link from "next/link";
 const item = [
   {
     img: "/telegram.svg",
-    link: "",
+    link: "https://t.me/GuraOnSol",
   },
   {
     img: "/x.svg",
